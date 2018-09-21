@@ -22,13 +22,6 @@
             </plugin>
         </plugins>
     </build>
-    <modules>
-        <module>SortSupportClasses</module>
-        <module>SortInterface</module>
-        <module>bubble</module>
-        <module>quick</module>
-        <module>Main</module>
-    </modules>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
